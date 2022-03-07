@@ -3,7 +3,7 @@ import Head from 'next/head'
 import { useRouter } from 'next/router'
 import styles from '../styles/Home.module.css'
 import { withTheme, createMuiTheme, ThemeProvider } from '@material-ui/core/styles';
-import path from 'path'
+// import path from 'path'
 import {
   Grid,
   Typography,
